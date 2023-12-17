@@ -5,7 +5,8 @@ _My name is **Diego de Miranda**!_
 ### Who I am?
 
 > - 👨🏾‍🚒 I’m currently working on Corpo de Bombeiros Militar de Minas Gerais...
-> - 🌱 I’m currently frontend and backend technologies and also I'm interested in data analysis >and artificial intelligence.
+> - 🎓  I'm currently studying Computer Science the Universidade Federal de Uberlândia.
+> - 🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.
 >   > - 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
 >   > - 💬 Ask me about anything...If I don't know how to help, I will try to learn.
 
@@ -51,7 +52,7 @@ _My name is **Diego de Miranda**!_
 
   <!--icone docker-->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><!--icone c++-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><!--icone c++-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 40" height="40"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><!--icone rust-->
