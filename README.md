@@ -1,41 +1,27 @@
-### 👋 Hello! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github profile.
 
-_My name is **Diego de Miranda** and my nickname is "SeuApelidoAqui"!_
+_My name is **Diego de Miranda**!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Who I am?
 
-## Images
+> - 👨🏾‍🚒 I’m currently working on Corpo de Bombeiros Militar de Minas Gerais...
+> - 🌱 I’m currently frontend and backend technologies and also I'm interested in data analysis >and artificial intelligence.
+>   > - 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
+>   > - 💬 Ask me about anything...If I don't know how to help, I will try to learn.
 
-![This is an alt text.](/image/sample.webp 'This is a sample image.')
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+> > > - 🧘🏾‍♂️ Fun facts: I'm passionate about American football, basketball, games, music, cinema, literature and pop culture in general. And I'm a _nakama_ of the Straw Hat Pirates!
 
 ## Quests completed:
 
-<!-- icone html-->
+  <!-- icone html-->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><!-- icone css--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-width="40" height="40"/><!-- icone sass--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/><!--icone javascript--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><!--icone c--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><!-- icone graphql--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+  width="40" height="40"/><!-- icone sass--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/><!--icone javascript--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><!--icone c--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><!-- icone graphql--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/><!-- icone haskell--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"  width="40" height="40"/>
 
 ## Sidequests:
 
-<!--icone linux-->
+  <!--icone linux-->
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><!--icone git-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><!--icone canva-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/><!--icone photoshop-->
@@ -49,7 +35,8 @@ width="40" height="40"/><!-- icone sass--><img src="https://cdn.jsdelivr.net/gh/
 
 ## Grinding:
 
-<!-- icone bootstrap-->
+  <!-- icone bootstrap-->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><!--icone java-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <!--icone typescript-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><!--icone react-->
@@ -62,32 +49,26 @@ width="40" height="40"/><!-- icone sass--><img src="https://cdn.jsdelivr.net/gh/
 
 ## Future quests:
 
-<!--icone docker-->
+  <!--icone docker-->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><!--icone c++-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 40" height="40"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>
 
-## Blocks of code
+#
 
-```
-let message = 'Hello world';
-alert(message);
-```
+  <div align ="center">
+  <a href="https://github.com/diegodemiranda">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 
-## Inline code
+## 📫 How to reach me:
 
-<div>
-<a href="https://github.com/diegodemiranda">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-## Contatos:
-
-<div>
-<a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+  <div align = "center">
+  <a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
