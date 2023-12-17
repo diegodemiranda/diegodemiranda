@@ -1,15 +1,18 @@
-## 👋 Hello! My name is Diego de Miranda and welcome to my Github profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! My name is Diego de Miranda and welcome to my Github profile.
 
 ## About me:
 
-> - 👨🏾‍🚒 I’m currently working on Corpo de Bombeiros Militar de Minas Gerais...
-> - 🎓 I'm currently studying Computer Science the Universidade Federal de Uberlândia.
-> - 🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.
->
-> > - 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
-> > - 💬 Ask me about anything...If I don't know how to help, I will try to learn.
-
-> > > - 🧘🏾‍♂️ Fun facts: I'm passionate about American football, basketball, games, music, cinema, literature and pop culture in general. And I'm a _nakama_ of the Straw Hat Pirates!
+```
+👨🏾‍🚒 I’m currently working on Corpo de Bombeiros Militar de Minas Gerais...
+🎓 I'm currently studying Computer Science the Universidade Federal de Uberlândia.
+🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.
+🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
+💬 Ask me about anything...If I don't know how to help, I will try to learn.
+🧘🏾‍♂️ Fun facts: I'm passionate about American football, basketball, games, music, cinema, literature and pop culture in general. And I'm a _nakama_ of the Straw Hat Pirates!
+function say_hi(self):
+        print("Thanks for dropping by, hope you find interesting my profile!")
+```
+<img src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="300"/>
 
 ## Technologies I've been learning and using so far:
 
@@ -50,6 +53,7 @@
 ### Things I want to learn
 
 <!--icone tensorflow-->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35"/><!--icone c++-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 40" height="40"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><!--icone python-->
@@ -57,7 +61,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><!--icone docker-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
 
-#
+## GitHub Stats
 
   <div align ="center">
   <a href="https://github.com/diegodemiranda">
@@ -70,5 +74,5 @@
   <div align = "center">
   <a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="100" height="100" target="_blank"></a>   
   </div>
