@@ -8,7 +8,7 @@
 
 
 <!--bio-->
-<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="322"/>
+<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="320"/>
 
 #### ABOUT ME:
 🔍 I’m currently lookink for a job where I can unleash all my creativity...<br>
@@ -37,22 +37,24 @@ Thanks for visiting, I hope you find my profile interesting!
 
 ##### PROGRAMMING LANGUAGES AND TECHNOLOGIES
 
-  <!-- icone html-->
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone css--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!-- icone sass-->
+<!-- icone html-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone css-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!--icone bootstrap-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/><!-- icone sass-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/><!--icone javascript-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" /><!--icone typescript-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "30" height = "30"/><!-- icone nodejs-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width = "30" height = "30"/><!--icone react-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30"/><!--icone java-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone bootstrap-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/> <!--icone swift-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone swift-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone c-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!-- icone haskell-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"  width = "30" height = "30"/><!--icone r-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/>
 <br>
+
 ##### TOOLS AND SOLUTIONS
 
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
