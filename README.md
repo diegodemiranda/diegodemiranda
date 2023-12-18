@@ -8,7 +8,7 @@
 
 
 <!--bio-->
-<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="320" height="320"/>
+<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="320"/>
 
 #### ABOUT ME:
 🔍 I’m currently lookink for a job where I can unleash all my creativity...<br>
@@ -27,7 +27,7 @@ I like listening to MPB and Metal music (I'm a guitar 🎸 and drums player 🥁
 I live the pop culture! Movies, series (I love The Office 🗞️) and especially books (my favorite author is J.R.R Tolkien 🧙🏾‍♂️) and manga (crazy about One Piece 🏴‍☠️).
 Thanks for visiting, I hope you find my profile interesting!
 
-<img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/536566d733761d90f2bfa89ba0f18526f0f0cefc/49_octocat.png" width="300" height="300"/>
+<img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/536566d733761d90f2bfa89ba0f18526f0f0cefc/49_octocat.png" width="280" height="280"/>
 
 #
 
