@@ -21,11 +21,11 @@
 🎙️ Frontend and backend development, UX Design, making for Relational and Non-Relational Database Management Systems, desktop or mobile application development, machine Learning and IA or solving Data structure and algorithm questions.
 
 ##### FUN FACTS:
-I'm passionate about American football and basketball 🏈 ([San Francisco 49ers](https://www.instagram.com/49ers/) and 🏀 [Los Angeles Lakers](https://www.instagram.com/lakers/) fan).<br>
-Also play a lot of games too, so feel free to add me on 🎮 PSN: *Nauttiluzs* and Xbox Live: *BRZRKR*!<br>
-I like listening to MPB and Metal music (I'm a 🎸guitar and 🥁drums player).<br>
-I live pop culture! Movies, TV shows, books, *mangás*, I love all of it, especially 🏴‍☠️ *One Piece* .<br>
-Thanks for dropping by, hope you find interesting my profile!"
+I'm passionate about American football 🏈 and basketball 🏀 ([San Francisco 49ers](https://www.instagram.com/49ers/) and [Los Angeles Lakers](https://www.instagram.com/lakers/) fan).<br>
+Also play a lot of 🎮 games too, so feel free to add me on PSN: *Nauttiluzs* and Xbox Live: *BRZRKR*.<br>
+I like listening to MPB and Metal music (I'm a guitar 🎸 and drums player 🥁).<br>
+I live the pop culture! Movies, series (I love The Office 🗞️) and especially books (my favorite author is J.R.R Tolkien 🧙🏾‍♂️) and manga (crazy about One Piece 🏴‍☠️).
+Thanks for visiting, I hope you find my profile interesting!
 
 <img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/536566d733761d90f2bfa89ba0f18526f0f0cefc/49_octocat.png" width="300" height="300"/>
 
