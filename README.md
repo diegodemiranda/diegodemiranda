@@ -1,4 +1,10 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! My name is Diego de Miranda and welcome to my Github profile.
+<img src="https://github.com/diegodemiranda/diegodemiranda/blob/60d4dba1af4895c207f476561f96e938f386e06f/header_code.png"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 ## About me:
 
@@ -8,15 +14,26 @@
 🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.
 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
 💬 Ask me about anything...If I don't know how to help, I will try to learn.
+Talk to me about:
+
+Front-end development using HTML, Javascript, CSS, Bootstrap.
+Backend development using Flask, Django.
+Making for Relational Database Management Systems.
+Robust full-stack system design implementation.
+Desktop application development using Flutter (Still learning).
+Mobile application development using Flutter and Kotlin.
+Creating scalable cloud architecture using AWS Cloud.
+Solving Data structure and algorithm questions in Java and Python.
+
 🧘🏾‍♂️ Fun facts: I'm passionate about American football, basketball, games, music, cinema, literature and pop culture in general. And I'm a _nakama_ of the Straw Hat Pirates!
 function say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile!")
 ```
-<img src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="300"/>
+<img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="300"/>
 
 ## Technologies I've been learning and using so far:
 
-### Programming Languages and frameworks
+#### Programming Languages and frameworks
 
   <!-- icone html-->
 
@@ -33,7 +50,7 @@ function say_hi(self):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"  width="40" height="40"/><!--icone r-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
 
-### Tools
+#### Tools and solutions
 
 <!--icone mysql-->
 
@@ -50,7 +67,7 @@ function say_hi(self):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><!--icone xcode-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
 
-### Things I want to learn
+#### Things I want to learn
 
 <!--icone tensorflow-->
 
@@ -58,7 +75,8 @@ function say_hi(self):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 40" height="40"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><!--icone rust-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><!--icone docker-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><!--icone go-->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/><!--icone docker-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
 
 ## GitHub Stats
@@ -73,6 +91,6 @@ function say_hi(self):
 
   <div align = "center">
   <a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="100" height="100" target="_blank"></a>   
+  <a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" width="100" height="100"></a>
   </div>
