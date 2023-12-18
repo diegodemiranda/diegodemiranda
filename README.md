@@ -2,38 +2,29 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-<!-- Profile Views -->
+<p align="left"> <img alt="octocat_png" src="https://komarev.com/ghpvc/?username=diegodemiranda&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /></p>
+<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="320" height="320"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
-## About me:
+#### ABOUT ME:
+👨🏾‍🚒 I’m currently lookink for a job where I can unleash all my creativity...<br>
+🎓 I'm studying Computer Science the Universidade Federal de Uberlândia.<br>
+🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.<br>
+🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.<br>
+💬 Ask me about anything...If I don't know how to help, I will try to learn.<br>
 
-```
-👨🏾‍🚒 I’m currently working on Corpo de Bombeiros Militar de Minas Gerais...
-🎓 I'm currently studying Computer Science the Universidade Federal de Uberlândia.
-🌱 I’m learning frontend and backend technologies and also I'm interested in data analysis and artificial intelligence.
-🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.
-💬 Ask me about anything...If I don't know how to help, I will try to learn.
-Talk to me about:
+🎙️ **Talk to me about:**<br>
+Frontend and backend development; UX Design; Making for Relational and Non-Relational Database Management Systems; Desktop application development; Mobile application development; Machine Learning and IA; Solving Data structure and algorithm questions.</p>
 
-Front-end development using HTML, Javascript, CSS, Bootstrap.
-Backend development using Flask, Django.
-Making for Relational Database Management Systems.
-Robust full-stack system design implementation.
-Desktop application development using Flutter (Still learning).
-Mobile application development using Flutter and Kotlin.
-Creating scalable cloud architecture using AWS Cloud.
-Solving Data structure and algorithm questions in Java and Python.
+🧘🏾‍♂️ **Fun facts:**<br>
+I'm passionate about American football and basketball (San Francisco 49ers and Los Angeles Lakers fan) games, music, cinema, literature and pop culture in general. And, ofcourse I'm a _nakama_ of the Straw Hat Pirates!
+Thanks for dropping by, hope you find interesting my profile!"
 
-🧘🏾‍♂️ Fun facts: I'm passionate about American football, basketball, games, music, cinema, literature and pop culture in general. And I'm a _nakama_ of the Straw Hat Pirates!
-function say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile!")
-```
+<img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/536566d733761d90f2bfa89ba0f18526f0f0cefc/49_octocat.png" width="300" height="300"/>
+<br>
 
-<img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="300"/>
 
-## Technologies I've been learning and using so far:
+#### TECHNOLOGIES I'VE BEEN LEARNING AND USING SO FAR:
 
 #### Programming Languages and frameworks
 
@@ -80,8 +71,9 @@ function say_hi(self):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><!--icone go-->
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/><!--icone docker-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<br>
 
-## GitHub Stats
+#### GITHUB STATS
 
   <div align ="center">
   <a href="https://github.com/diegodemiranda">
@@ -91,8 +83,8 @@ function say_hi(self):
 
 #
 
-  <div align = "center">
+ <!-- <div align = "center">
   <a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diego.demiranda@icloud.com"><img loading="lazy" src="" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/diegodemiranda" target="_blank"><img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" width="100" height="100"></a>
-  </div>
+  </div>-->
