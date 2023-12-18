@@ -91,7 +91,7 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <!--stats-->
 
 <a href="https://github.com/diegodemiranda/github-readme-stats">
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&langs_count=5&layout=compact"/>
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&langs_count=5&theme=transparent&layout=compact"/>
 </a>
 <a href= "https://github.com/diegodemiranda/github-readme-stats">
 <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=transparent&hide=contribs"/>
