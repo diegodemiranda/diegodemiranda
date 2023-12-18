@@ -1,6 +1,7 @@
 <img src="https://github.com/diegodemiranda/diegodemiranda/blob/60d4dba1af4895c207f476561f96e938f386e06f/header_code.png"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+
 <!-- Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
@@ -29,6 +30,7 @@ Solving Data structure and algorithm questions in Java and Python.
 function say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile!")
 ```
+
 <img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="300"/>
 
 ## Technologies I've been learning and using so far:
