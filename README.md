@@ -97,5 +97,10 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=transparent&hide=contribs"/>
 </a>
 
+#
+
+<!--buy_me_a_coffe_button-->
+<a href="https://www.buymeacoffee.com/diegodemiranda" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <!--![snake gif](https://github.com/diegodemiranda/diegodemiranda/blob/output/github-contribution-grid-snake.svg)-->
 
