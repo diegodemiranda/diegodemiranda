@@ -4,7 +4,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 <!--profile_views-->
-<p align="left"> <img alt="view_counter" src="https://komarev.com/ghpvc/?username=diegodemiranda&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /></p>
+
+
 
 <!--bio-->
 <img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="320" height="320"/>
@@ -77,24 +78,24 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <p>The quest to master new tools isn't just about staying updated; it's about empowering oneself to craft efficient, scalable, and inventive solutions that push the boundaries of what's achievable in the realm of coding and I don't want to stop learning.</p>
 
 <!--icone tensorflow-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35"/><!--icone c++-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 40" height="40"/><!--icone c#-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone c++-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 30" height="30"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30" height = "30"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "30" height = "30"/><!--icone go-->
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone docker-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 
 #
 
-#### GITHUB STATS
-
 <!--stats-->
-  <div align ="center">
-  <a href="https://github.com/diegodemiranda">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
+
+<a href="https://github.com/diegodemiranda/github-readme-stats">
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&langs_count=5&layout=compact"/>
+</a>
+<a href= "https://github.com/diegodemiranda/github-readme-stats">
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=transparent&hide=contribs"/>
+</a>
 
  <!-- <div align = "center">
   <a href="https://instagram.com/diegodemiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
