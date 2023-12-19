@@ -25,7 +25,6 @@ I'm passionate about American football 🏈 and basketball 🏀 ([San Francisco 
 Also play a lot of 🎮 games too, so feel free to add me on PSN: *Nauttiluzs* and Xbox Live: *BRZRKR*.<br>
 I like listening to MPB and Metal music (I'm a guitar 🎸 and drums player 🥁).<br>
 I live the pop culture! Movies, series (I love The Office 🗞️) and especially books (my favorite author is J.R.R Tolkien 🧙🏾‍♂️) and manga (crazy about One Piece 🏴‍☠️).
-Thanks for visiting, I hope you find my profile interesting!
 
 <img align="right" alt="PNG" src="https://github.com/diegodemiranda/diegodemiranda/blob/536566d733761d90f2bfa89ba0f18526f0f0cefc/49_octocat.png" width="280" height="280"/>
 
@@ -55,7 +54,7 @@ Thanks for visiting, I hope you find my profile interesting!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/>
 <br>
 
-##### TOOLS AND SOLUTIONS
+##### TOOLS AND APPLICATIONS
 
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
