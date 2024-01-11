@@ -59,7 +59,8 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 
-<!--icone mysql-->
+<!--icone docker-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><!--icone mysql-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone mongodb-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/><!-- icone graphql-->
@@ -84,8 +85,7 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30" height = "30"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "30" height = "30"/><!--icone go-->
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone docker-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/>
 
 #
 
