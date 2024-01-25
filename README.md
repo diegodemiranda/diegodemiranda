@@ -83,8 +83,8 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 30" height="30"/><!--icone c#-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30" height = "30"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><<!--icone go-->
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone kotlin-->
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone rust-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "30" height = "30"/><!--icone kotlin-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "30" height = "30"/>
 
 #
