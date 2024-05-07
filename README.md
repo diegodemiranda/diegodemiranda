@@ -38,20 +38,19 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
-<!-- icone html-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone html-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!-- icone css-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/><!--icone bootstrap-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/><!-- icone sass-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" /><!--icone javascript-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "30" height = "30"/><!--icone typescript-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width = "30" height = "30"/><!-- icone nodejs-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30"/><!--icone react-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone python-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone css-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!--icone bootstrap-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/><!-- icone sass-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/><!--icone javascript-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" /><!--icone typescript-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "30" height = "30"/><!-- icone nodejs-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi--> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width = "30" height = "30"/><!--icone react-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30"/><!--icone java-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone c-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone r-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone java-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone c-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/><!--icone r-->
 <br>
 
 ##### TOOLS AND APPLICATIONS
