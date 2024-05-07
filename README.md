@@ -39,16 +39,17 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
 <!-- icone html-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone python-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone css-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!--icone bootstrap-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/><!-- icone sass-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/><!--icone javascript-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" /><!--icone typescript-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "30" height = "30"/><!-- icone nodejs-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi--> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width = "30" height = "30"/><!--icone react-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30"/><!--icone java-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone swift-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone c-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone c-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone r-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/>
 <br>
@@ -58,20 +59,20 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 
-<!--icone docker-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><!--icone mysql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone mongodb-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/><!-- icone graphql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30"/><!--icone linux-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone git-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone canva-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone photoshop-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone slack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width = "30" height = "30"/><!--icone figma-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30" height = "30"/><!--icone xcode-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width = "30" height = "30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><!--icone docker-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "30" height = "30"/><!--icone mysql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width = "30" height = "30" /><!--icone postgresql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone anaconda-->  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone photoshop-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width = "30" height = "30"/><!--icone slack -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30" height = "30"/><!--icone figma-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width = "30" height = "30"/><!--icone xcode-->
 <br>
 
 ##### THINGS I WANT TO LEARN
@@ -81,11 +82,15 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <!--icone tensorflow-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone c++-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=" 30" height="30"/><!--icone c#-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30" height = "30"/><!--icone python-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone go-->
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone kotlin-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone rust-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30" height = "30"/><!--icone c++-->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone go-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone kotlin-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/><!--icone rust-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone rust-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/><!--icone mongodb-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30"/><!-- icone graphql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
+          
           
 
 #
