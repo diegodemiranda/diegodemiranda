@@ -48,7 +48,6 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi--> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone java-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone c-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" height = "30"/><!--icone r-->
 <br>
 
 ##### TOOLS AND APPLICATIONS
@@ -77,16 +76,13 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 
 <!--icone tensorflow-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone c++-->
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "30" height = "30"/><!--icone go-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone kotlin-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width = "30" height = "30"/><!--icone mongodb-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30"/><!-- icone graphql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width = "30" height = "30"/><!--icone xcode-->
 <br>       
-          
 
 #
 
