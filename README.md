@@ -54,7 +54,7 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = "30" height = "30" /><!--icone jupyter-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width = "30" height = "30" /><!--icone gitac--> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width = "38" height = "32"/><!--icone react-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = "30" height = "30" /><!-- icone nodejs-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
