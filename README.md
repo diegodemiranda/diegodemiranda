@@ -45,7 +45,6 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!-- icone css-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone java-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone c-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
 <br>
 
 ##### TOOLS AND FRAMEWORKS
@@ -67,6 +66,8 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"  /><!--icone docker-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="40" height="40"  /><!--icone kubernets-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone photoshop-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
