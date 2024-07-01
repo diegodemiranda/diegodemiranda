@@ -52,28 +52,32 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = "30" height = "30" /><!--icone jupyter-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width = "30" height = "30" /><!--icone gitac--> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width = "38" height = "32"/><!--icone react-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = "30" height = "30" /><!-- icone nodejs-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/couchdb/couchdb-original.svg" width = "30" height = "30"/><!--icone couchdb-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width = "30" height = "30"/><!--icone redis-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = "60" height = "40" /><!--icone mysql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width = "30" height = "30"/><!--icone redis-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "30" height = "30" /><!--icone mysql-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width = "30" height = "30"/><!--icone sqlite-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width = "40" height = "40"/><!--icone mongodb-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "32" height = "32"/><!--icone mongodb-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width = "30" height = "30"/><!--icone fireb-->
+#
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width = "30" height = "30"/><!--icone swagger-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width = "30" height = "30"/><!--icone grafana-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width = "30" height = "30"/><!--icone promtheus-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = "30" height = "30" /><!--icone jupyter-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width = "30" height = "30" /><!--icone gitac-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"  /><!--icone docker-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="40" height="40"  /><!--icone kubernets-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="35" height="35"  /><!--icone kubernets-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
+#
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone photoshop-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30" height = "30"/><!--icone figma-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
-<br>
 
 ##### THINGS I WANT TO LEARN
 
