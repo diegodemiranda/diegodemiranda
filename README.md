@@ -66,12 +66,11 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width = "30" height = "30"/><!--icone swagger-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width = "30" height = "30"/><!--icone grafana-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width = "30" height = "30"/><!--icone promtheus-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = "30" height = "30" /><!--icone jupyter-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width = "30" height = "30" /><!--icone gitac-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"  /><!--icone docker-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="35" height="35"  /><!--icone kubernets-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width = "30" height = "30" /><!--icone ggc-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
 #
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
@@ -84,7 +83,7 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <p>The quest to master new tools isn't just about staying updated; it's about empowering oneself to craft efficient, scalable, and inventive solutions that push the boundaries of what's achievable in the realm of coding and I don't want to stop learning.</p>
 
 <!--icone tensorflow-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone c++-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone kotlin-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/><!--icone rust-->
