@@ -47,21 +47,15 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone c-->
 <br>
 
-##### TOOLS AND FRAMEWORKS
+##### FRAMEWORKS, TOOLS AND DATABASES
 
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width = "38" height = "32"/><!--icone react-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone tensorflow-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width = "30" height = "30"/><!--icone pytorch-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = "30" height = "30" /><!-- icone nodejs-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/couchdb/couchdb-original.svg" width = "30" height = "30"/><!--icone couchdb-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width = "30" height = "30"/><!--icone redis-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "30" height = "30" /><!--icone mysql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width = "30" height = "30"/><!--icone sqlite-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "32" height = "32"/><!--icone mongodb-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width = "30" height = "30"/><!--icone fireb-->
 #
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
@@ -71,24 +65,29 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"  /><!--icone docker-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="35" height="35"  /><!--icone kubernets-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width = "30" height = "30" /><!--icone ggc-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
 #
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone photoshop-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30" height = "30"/><!--icone figma-->
+#
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "30" height = "30" /><!--icone mysql-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width = "30" height = "30"/><!--icone redis-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "32" height = "32"/><!--icone mongodb-->
+
+
 
 ##### THINGS I WANT TO LEARN
 
 <p>The quest to master new tools isn't just about staying updated; it's about empowering oneself to craft efficient, scalable, and inventive solutions that push the boundaries of what's achievable in the realm of coding and I don't want to stop learning.</p>
 
-<!--icone tensorflow-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone kotlin-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/><!--icone rust-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30"/><!-- icone graphql-->
-<br>       
+<br>   
 
 #
 
