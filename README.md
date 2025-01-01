@@ -38,61 +38,39 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/><!--icone python-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" /><!--icone javascript-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "30" height = "30"/><!--icone typescript-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "30" height = "30"/><!-- icone html-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "30" height = "30"/><!-- icone css-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30"/><!--icone java-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "30" height = "30"/><!--icone c-->
-<br>
+<a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,java&theme=light")/>
+</a>
+</br>
 
-##### FRAMEWORKS, TOOLS AND DATABASES
+##### FRAMEWORKS AND TOOLS
 
 <p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer.<br>
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,react,fastapi&theme=light")/>
+<br>
+          <img src="https://skillicons.dev/icons?i=linux,git,postman,docker,kubernetes,aws,gcp&theme=light")/>
+<br>
+          <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma&theme=light")/>
+<br>
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light")/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width = "30" height = "30" /><!--icone fastapi-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><!--icone tensorflow-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width = "30" height = "30"/><!--icone pytorch-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = "30" height = "30" /><!-- icone nodejs-->
-#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "30" height = "30" /><!--icone aws-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width = "30" height = "30"/><!--icone linux-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width = "30" height = "30"/><!--icone postman-->
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/><!--icone git-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width = "30" height = "30"/><!--icone swagger-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width = "30" height = "30" /><!--icone firebase-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = "30" height = "30" /><!--icone jupyter-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width = "30" height = "30" /><!--icone gitac-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"  /><!--icone docker-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="35" height="35"  /><!--icone kubernets-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width = "30" height = "30" /><!--icone ggc-->
-#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width = "30" height = "30"/><!--icone canva-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = "30" height = "30"/><!--icone photoshop-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width = "30" height = "30"/><!--icone illustrator-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30" height = "30"/><!--icone figma-->
-#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/couchdb/couchdb-original.svg" width = "30" height = "30"/><!--icone couchdb-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30"/><!--icone postgresql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "30" height = "30" /><!--icone mysql-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width = "30" height = "30"/><!--icone redis-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width = "32" height = "32"/><!--icone mongodb-->
-
+  </a>
 
 
 ##### THINGS I WANT TO LEARN
 
 <p>The quest to master new tools isn't just about staying updated; it's about empowering oneself to craft efficient, scalable, and inventive solutions that push the boundaries of what's achievable in the realm of coding and I don't want to stop learning.</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "25" height = "25"/><!--icone kotlin-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30" height = "30"/><!--icone swift-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width = "25" height = "25"/><!--icone rust-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30"/><!-- icone graphql-->
-<br>   
+<p align="left">
+  <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=rust,swift,kotlin,graphql&theme=light")/>
+ </a>
 
-#
+# 
+
 
 <!--stats-->
 
