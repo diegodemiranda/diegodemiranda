@@ -39,7 +39,7 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,java&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=python,c,java&theme=light")/>
 </a>
 </br>
 
@@ -49,13 +49,7 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 <p align="left">
   <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,react,fastapi&theme=light")/>
-<br>
-          <img src="https://skillicons.dev/icons?i=linux,git,postman,docker,kubernetes,aws,gcp&theme=light")/>
-<br>
-          <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma&theme=light")/>
-<br>
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,linux,git,docker,kubernetes,aws,gcp,mysql,postgres,mongodb,redis&theme=light")/>
 
   </a>
 
@@ -66,7 +60,7 @@ Embracing the evolving landscape of technology not only expands one's skill set 
 
 <p align="left">
   <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=rust,swift,kotlin,graphql&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=swift,kotlin,go-original,graphql&theme=light")/>
  </a>
 
 # 
