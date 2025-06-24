@@ -32,7 +32,7 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 
 <!--stkills_and_techniques-->
 
-#### TECHNOLOGIES I'VE BEEN LEARNING AND USING SO FAR:
+#### TECHNOLOGIES I'VE BEEN LEARNING SO FAR:
 
 ##### PROGRAMMING LANGUAGES AND TECHNOLOGIES
 
