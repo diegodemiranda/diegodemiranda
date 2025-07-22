@@ -49,7 +49,7 @@ I live the pop culture! Movies, series (I love The Office 🗞️) and especiall
 Embracing the evolving landscape of technology not only expands one's skill set but also offers innovative solutions to intricate coding challenges.</p>
 <p align="left">
   <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,git,docker,kubernetes,gcp,mysql,postgres,mongodb,redis&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,docker,kubernetes,gcp,mysql,postgres,mongodb,redis&theme=light")/>
 
   </a>
 
