@@ -17,9 +17,6 @@
 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.<br>
 💬 Ask me about anything... If I don't know how to help, I will try to figure it out how.
 
- ##### TALK TO ME ABOUT:
-🎙️ Data science and AI in general, UX Design, software architecture or algorithm questions.
-
 ##### FUN FACTS:
 I'm passionate about American football 🏈 and basketball 🏀 ([San Francisco 49ers](https://www.instagram.com/49ers/) and [Los Angeles Lakers](https://www.instagram.com/lakers/) fan).<br>
 Also play a lot of 🎮 games too, so feel free to add me on PSN: *Nauttiluzs* and Xbox Live: *BRZRKR*.<br>
