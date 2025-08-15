@@ -28,7 +28,7 @@
 <p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
 
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,c,swift,java&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=python,c,java&theme=light")/>
 </a>
 </br>
 
@@ -39,7 +39,7 @@ Embracing the evolving landscape of technology not only expands one's skill set<
           but also offers innovative solutions to intricate coding challenges.</p>
 <p align="left">
   <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,docker,kubernetes,gcp,mysql,postgres,mongodb,redis&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,docker,kubernetes,gcp,mysql,postgres,mongodb,redis,ros&theme=light")/>
 
   </a>
 
