@@ -1,5 +1,5 @@
 <!--header-->
-
+<img src="https://github.com/diegodemiranda/diegodemiranda/blob/60d4dba1af4895c207f476561f96e938f386e06f/header_code.png"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
@@ -8,7 +8,7 @@
 
 
 <!--bio-->
-<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="320"/>
+
 
 ##### ABOUT ME:
 🔍 I’m currently lookink for a job where I can unleash all my creativity...<br>
