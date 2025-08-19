@@ -5,7 +5,7 @@
 
 <!--profile_views-->
 
-
+<img align="left" alt="octocat_png" src="https://github.com/diegodemiranda/diegodemiranda/blob/c407b7b14c5b62324c19b3d9c1ffdf1229d442cc/my_octocat.png" width="300" height="320"/>
 
 <!--bio-->
 
