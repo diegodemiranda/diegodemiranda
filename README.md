@@ -1,5 +1,5 @@
 <!--header-->
-<img src="https://github.com/diegodemiranda/diegodemiranda/blob/60d4dba1af4895c207f476561f96e938f386e06f/header_code.png"/>
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
