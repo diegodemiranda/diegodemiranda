@@ -10,7 +10,7 @@
 
 ##### ABOUT ME:
 🔍 I’m currently lookink for a job where I can unleash all my creativity...<br>
-🎓 I have a degree in design, a MBA in communication and semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia](https://ufu.br).<br>
+🎓 I have a degree in Design, a MBA in Communication and Semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia](https://ufu.br).<br>
 🌱 I’m learning a little bit every day about frontend and backend technologies and also I have interest in data analysis and artificial intelligence.<br>
 🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.<br>
 💬 Ask me about anything... If I don't know how to help, I will try to figure it out how.<br>
@@ -37,7 +37,9 @@ Embracing the evolving landscape of technology not only expands one's skill set<
           but also offers innovative solutions to intricate coding challenges.</p>
 <p align="left">
   <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,docker,kubernetes,gcp,mysql,postgres,mongodb,redis,ros&theme=light")/>
+          <img src="https://skillicons.dev/icons?i=tensorflow,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
+  </br>
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
 
   </a>
 
