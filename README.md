@@ -9,7 +9,8 @@
 
 
 ##### ABOUT ME:
-<p>I have a degree in Design, a MBA in Communication and Semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia](https://ufu.br).<br>
+<p>I have a degree in Design, a MBA in Communication and Semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia.
+  <br>
 I strive to develop following software architecture best practices such as clean architecture and code, design patterns, domain-driven design, and CI/CD. I also use automation with containers and well-structured tests. I’m learning a little bit every day about technologies and people! I have a particular interest in robotics and artificial intelligence and I’m looking to collaborate on challenging projects that make people life better.</p>
 
 
