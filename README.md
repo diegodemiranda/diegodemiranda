@@ -9,39 +9,28 @@
 
 
 ##### ABOUT ME:
-🔍 I’m currently lookink for a job where I can unleash all my creativity...<br>
-🎓 I have a degree in Design, a MBA in Communication and Semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia](https://ufu.br).<br>
-🌱 I’m learning a little bit every day about frontend and backend technologies and also I have interest in data analysis and artificial intelligence.<br>
-🫱🏾‍🫲🏻 I’m looking to collaborate on challenging projects that make people life better.<br>
-💬 Ask me about anything... If I don't know how to help, I will try to figure it out how.<br>
-🏈 I'm passionate about American football and basketball (San Francisco 49ers and Los Angeles Lakers fan)!<br>
-🎮 Also play a lot of games too and I'm a guitar 🎸 and drums player 🥁.
+<p>I have a degree in Design, a MBA in Communication and Semiotics and nowadays I'm studying Computer Science at the [Universidade Federal de Uberlândia](https://ufu.br).<br>
+I strive to develop following software architecture best practices such as clean architecture and code, design patterns, domain-driven design, and CI/CD. I also use automation with containers and well-structured tests. I’m learning a little bit every day about technologies and people! I have a particular interest in robotics and artificial intelligence and I’m looking to collaborate on challenging projects that make people life better.</p>
+
 
 #
 
 <!--stkills_and_techniques-->
 
 ##### PROGRAMMING LANGUAGES AND TECHNOLOGIES
-
-<p>I have been engaging with diverse frameworks, languages and platforms not only because it amplifies problem-solving capabilities but also fosters adaptability and creativity within the programming sphere. Every day I learn a little more about all of this.</p>
+<p>I have been engaging with diverse frameworks, languages and platforms not only to tackle programming problems is an essential journey for any developer and it amplifies problem-solving capabilities, but also fosters adaptability and creativity within the programming sphere. Embracing the evolving landscape of technology not only expands one's skill set, but also offers innovative solutions to intricate coding challenges.</p>
+<br>
 
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=light")/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=light")/>
 </a>
 </br>
 
-##### FRAMEWORKS AND TOOLS
-
-<p>Learning new technologies and tools to tackle programming problems is an essential journey for any developer. 
-Embracing the evolving landscape of technology not only expands one's skill set<br>
-          but also offers innovative solutions to intricate coding challenges.</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=tensorflow,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
-  </br>
-          <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
-
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tensorflow,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
+</br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
+</a>
 
 
 # 
