@@ -28,7 +28,7 @@ I strive to develop following software architecture best practices such as clean
 </br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
 </br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
 </a>
