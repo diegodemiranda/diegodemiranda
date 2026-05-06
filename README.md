@@ -23,30 +23,18 @@ I strive to develop following software architecture best practices such as clean
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=light")/>
+<img src="https://skillicons.dev/icons?i=python,go,c,java&theme=light")/>
 </a>
 </br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,fastapi,mysql,postgres,mongodb,redis&theme=light")/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,fastapi&theme=light")/>
 </br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
 </a>
 
 
 # 
-
-
-<!--stats-->
-
-<a href="https://github.com/diegodemiranda/github-readme-stats">
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodemiranda&langs_count=5&theme=transparent&layout=compact"/>
-</a>
-<a href= "https://github.com/diegodemiranda/github-readme-stats">
-<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=diegodemiranda&show_icons=true&theme=transparent&hide=contribs"/>
-</a>
-
-#
 
 <!--buy_me_a_coffe_button-->
 <a href="https://www.buymeacoffee.com/diegodemiranda" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
