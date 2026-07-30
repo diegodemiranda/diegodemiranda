@@ -30,7 +30,7 @@ I strive to develop following software architecture best practices such as clean
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,fastapi,figma&theme=light")/>
 </br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,postgres&theme=light")/>
 </a>
 
 
