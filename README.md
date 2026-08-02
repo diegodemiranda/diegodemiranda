@@ -23,7 +23,7 @@ I strive to develop following software architecture best practices such as clean
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,python,go,tensorflow,pytorch,ros,fastapi,figma,docker,kubernetes,gcp&theme=dark")/>
+<img src="https://skillicons.dev/icons?i=c,python,go,tensorflow,pytorch,ros,fastapi,figma,docker,kubernetes,gcp&theme=light")/>
 </a>
 </br>
 </a>
