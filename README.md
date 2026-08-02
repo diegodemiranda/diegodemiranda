@@ -23,14 +23,9 @@ I strive to develop following software architecture best practices such as clean
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,python,go&theme=light")/>
+<img src="https://skillicons.dev/icons?i=c,python,go,tensorflow,pytorch,ros,fastapi,figma,docker,kubernetes,gcp&theme=dark")/>
 </a>
 </br>
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,fastapi,figma&theme=light")/>
-</br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=light")/>
 </a>
 
 
